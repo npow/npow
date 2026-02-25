@@ -17,6 +17,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — MCP server for Metaflow — give your AI coding agent superpowers over your ML workflows.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Like oh-my-zsh, but for Claude Code. An extensible statusline framework with themes and plugins.
 - 📊 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — Ask your AI assistant what your MRR is — SaaS metrics from Stripe via MCP.
+- 📰 **[upshot](https://github.com/npow/upshot)** — Get the key takeaways from all your newsletters and feeds in one daily briefing.
 
 **Security**
 - 🔓 **[clawbreaker](https://github.com/npow/clawbreaker)** — Pre-installation security scanner for OpenClaw skills. Sandboxed execution + AI-powered adversarial testing.
