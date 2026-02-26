@@ -10,24 +10,27 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 ![Tokens Burned](https://img.shields.io/badge/tokens%20burned-∞-cc785c?style=flat-square&logo=anthropic&logoColor=white)
 
-## Currently Building
-
-**AI/LLM Tools**
-- 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
+## Metaflow Ecosystem
 - 🔷 **[metaflow-dagster](https://github.com/npow/metaflow-dagster)** — Dagster scheduling, observability, and UI for your Metaflow pipelines.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 - 🔀 **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
 - 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
 - ⏱️ **[metaflow-temporal](https://github.com/npow/metaflow-temporal)** — Temporal scheduling, durable workflows, and UI for your Metaflow pipelines.
+
+## AI/LLM Tools
+
+- 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
 - 📊 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
 - 📰 **[upshot](https://github.com/npow/upshot)** — One daily brief that deduplicates and prioritizes all your newsletter and RSS inputs.
 
-**Security**
+## Security
+
 - 🔓 **[clawbreaker](https://github.com/npow/clawbreaker)** — Dynamic, adversarial sandbox testing to catch malicious OpenClaw skills before install.
 - 🤠 **[outclaw](https://github.com/npow/outclaw)** — Inline content firewall for secrets, prompt injection, unsafe domains, and risky tool calls.
 
-**Research**
+## Research
+
 - 🦞 **[moltbook-analysis](https://github.com/npow/moltbook-analysis)** — Forensic teardown of an AI-only social network. ([Read the report](https://npow.github.io/posts/lobster-tank/))
 
 ## Visualizations
