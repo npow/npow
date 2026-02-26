@@ -14,6 +14,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 **AI/LLM Tools**
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
+- 🔷 **[metaflow-dagster](https://github.com/npow/metaflow-dagster)** — Dagster scheduling, observability, and UI for your Metaflow pipelines.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 - 🔀 **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
 - 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
