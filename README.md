@@ -15,7 +15,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 **AI/LLM Tools**
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Make Claude Code do complex multi-step workflows reliably with a single slash command.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — MCP server for Metaflow — give your AI coding agent superpowers over your ML workflows.
-- 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Run Metaflow steps in Daytona or E2B sandboxes with fast startup and consistent remote dependency hydration.
+- 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Run Metaflow steps in Daytona or E2B sandboxes with fast startup.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Like oh-my-zsh, but for Claude Code. An extensible statusline framework with themes and plugins.
 - 📊 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — Ask your AI assistant what your MRR is — SaaS metrics from Stripe via MCP.
 - 📰 **[upshot](https://github.com/npow/upshot)** — Get the key takeaways from all your newsletters and feeds in one daily briefing.
