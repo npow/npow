@@ -45,12 +45,9 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🛡️ **[memshield](https://github.com/npow/memshield)** — Stop memory poisoning attacks on your AI agents.
 - 🤠 **[outclaw](https://github.com/npow/outclaw)** — Inline content firewall for secrets, prompt injection, unsafe domains, and risky tool calls.
 
-## Research
+## Explorations
 
 - 🦞 **[moltbook-analysis](https://github.com/npow/moltbook-analysis)** — Forensic teardown of an AI-only social network. ([Read the report](https://npow.github.io/posts/lobster-tank/))
-
-## Visualizations
-
 - ✈️ **[skypulse](https://github.com/npow/skypulse)** — Zero-setup browser globe tracking 6,000+ live aircraft in real time.
 - 🚢 **[spyglass](https://github.com/npow/spyglass)** — Real-time global ship traffic map with live AIS and instant drill-down.
 
@@ -65,6 +62,13 @@ Digital adaptations of classic board games — vanilla HTML/CSS/JS, no dependenc
 - 🎲 **[too-many-bones](https://github.com/npow/too-many-bones)** — Solo dice-builder RPG adaptation with tactical grid combat and branching encounters.
 - 💍 **[war-of-the-ring](https://github.com/npow/war-of-the-ring)** — Browser-based asymmetric epic with hidden Fellowship movement and Shadow AI.
 
+## Libraries & Tools
+
+- ✈️ **[airline-codes](https://github.com/npow/airline-codes)** — Lightweight npm dataset for airline IATA/ICAO lookups.
+- 📦 **[cssbox](https://github.com/npow/cssbox)** — Fast embeddable Rust CSS layout engine for document rendering without a browser.
+- 🚔 **[oxicop](https://github.com/npow/oxicop)** — 2-30x faster RuboCop-compatible linter in Rust with parallel checks.
+- 📦 **[sandrun](https://github.com/npow/sandrun)** — Run code in fast, isolated cloud sandboxes — swap backends without rewriting your integration.
+
 ## ML Research
 
 - 🏠 **[centris](https://github.com/npow/centris)** — Montreal home-price prediction pipeline.
@@ -73,13 +77,6 @@ Digital adaptations of classic board games — vanilla HTML/CSS/JS, no dependenc
 - 🧠 **[MemNN](https://github.com/npow/MemNN)** — Memory Networks in Theano.
 - 🧠 **[RNN-EM](https://github.com/npow/RNN-EM)** — RNNs with external memory.
 - 🗣️ **[ubottu](https://github.com/npow/ubottu)** — Next-utterance classification.
-
-## Libraries & Tools
-
-- ✈️ **[airline-codes](https://github.com/npow/airline-codes)** — Lightweight npm dataset for airline IATA/ICAO lookups.
-- 📦 **[cssbox](https://github.com/npow/cssbox)** — Fast embeddable Rust CSS layout engine for document rendering without a browser.
-- 🚔 **[oxicop](https://github.com/npow/oxicop)** — 2-30x faster RuboCop-compatible linter in Rust with parallel checks.
-- 📦 **[sandrun](https://github.com/npow/sandrun)** — Run code in fast, isolated cloud sandboxes — swap backends without rewriting your integration.
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/npow)
 
