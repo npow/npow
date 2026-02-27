@@ -26,6 +26,9 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 
+### Resources
+- ⭐ **[awesome-metaflow](https://github.com/npow/awesome-metaflow)** — Every Metaflow extension worth knowing, curated and organized.
+
 ## AI/LLM Tools
 
 - 🔭 **[agenttrace](https://github.com/npow/agenttrace)** — Real-time ingestion daemon for AI coding agent sessions.
