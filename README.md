@@ -12,6 +12,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 ## Metaflow Ecosystem
 - 🔷 **[metaflow-dagster](https://github.com/npow/metaflow-dagster)** — Dagster scheduling, observability, and UI for your Metaflow pipelines.
+- 🚀 **[metaflow-flyte](https://github.com/npow/metaflow-flyte)** — Schedule and monitor your Metaflow pipelines through Flyte without rewriting them.
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 - 🔀 **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
