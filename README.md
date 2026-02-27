@@ -28,14 +28,21 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 ## AI/LLM Tools
 
+- 🔭 **[agenttrace](https://github.com/npow/agenttrace)** — Real-time ingestion daemon for AI coding agent sessions.
+- 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
+- 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark any system that transforms LLM context: compressors, RAG rerankers, memory managers, and more.
+- 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
+- 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
 - 📊 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
+- 🪄 **[summon](https://github.com/npow/summon)** — Summon a working project from a single sentence.
 - 📰 **[upshot](https://github.com/npow/upshot)** — One daily brief that deduplicates and prioritizes all your newsletter and RSS inputs.
 
 ## Security
 
 - 🔓 **[clawbreaker](https://github.com/npow/clawbreaker)** — Dynamic, adversarial sandbox testing to catch malicious OpenClaw skills before install.
+- 🛡️ **[memshield](https://github.com/npow/memshield)** — Stop memory poisoning attacks on your AI agents.
 - 🤠 **[outclaw](https://github.com/npow/outclaw)** — Inline content firewall for secrets, prompt injection, unsafe domains, and risky tool calls.
 
 ## Research
