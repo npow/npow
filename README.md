@@ -31,7 +31,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🔭 **[agenttrace](https://github.com/npow/agenttrace)** — Real-time ingestion daemon for AI coding agent sessions.
 - 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
-- 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark any system that transforms LLM context: compressors, RAG rerankers, memory managers, and more.
+- 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark LLM context compressors, RAG rerankers, and memory managers.
 - 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
 - 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
