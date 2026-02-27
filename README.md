@@ -51,6 +51,13 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - ✈️ **[skypulse](https://github.com/npow/skypulse)** — Zero-setup browser globe tracking 6,000+ live aircraft in real time.
 - 🚢 **[spyglass](https://github.com/npow/spyglass)** — Real-time global ship traffic map with live AIS and instant drill-down.
 
+## Libraries & Tools
+
+- ✈️ **[airline-codes](https://github.com/npow/airline-codes)** — Lightweight npm dataset for airline IATA/ICAO lookups.
+- 📦 **[cssbox](https://github.com/npow/cssbox)** — Fast embeddable Rust CSS layout engine for document rendering without a browser.
+- 🚔 **[oxicop](https://github.com/npow/oxicop)** — 2-30x faster RuboCop-compatible linter in Rust with parallel checks.
+- 📦 **[sandrun](https://github.com/npow/sandrun)** — Run code in fast, isolated cloud sandboxes — swap backends without rewriting your integration.
+
 ## Board Games
 
 Digital adaptations of classic board games — vanilla HTML/CSS/JS, no dependencies.
@@ -61,13 +68,6 @@ Digital adaptations of classic board games — vanilla HTML/CSS/JS, no dependenc
 - ⚔️ **[mage-knight](https://github.com/npow/mage-knight)** — Solo deckbuilding conquest with deep tactical combat and rich map generation.
 - 🎲 **[too-many-bones](https://github.com/npow/too-many-bones)** — Solo dice-builder RPG adaptation with tactical grid combat and branching encounters.
 - 💍 **[war-of-the-ring](https://github.com/npow/war-of-the-ring)** — Browser-based asymmetric epic with hidden Fellowship movement and Shadow AI.
-
-## Libraries & Tools
-
-- ✈️ **[airline-codes](https://github.com/npow/airline-codes)** — Lightweight npm dataset for airline IATA/ICAO lookups.
-- 📦 **[cssbox](https://github.com/npow/cssbox)** — Fast embeddable Rust CSS layout engine for document rendering without a browser.
-- 🚔 **[oxicop](https://github.com/npow/oxicop)** — 2-30x faster RuboCop-compatible linter in Rust with parallel checks.
-- 📦 **[sandrun](https://github.com/npow/sandrun)** — Run code in fast, isolated cloud sandboxes — swap backends without rewriting your integration.
 
 ## ML Research
 
