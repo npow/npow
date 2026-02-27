@@ -20,6 +20,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - ⏱️ **[metaflow-temporal](https://github.com/npow/metaflow-temporal)** — Temporal scheduling, durable workflows, and UI for your Metaflow pipelines.
 
 ### Backends
+- 🐟 **[metaflow-bacalhau](https://github.com/npow/metaflow-bacalhau)** — Run Metaflow steps on distributed Bacalhau compute without rewriting your workflow.
 - 🔒 **[metaflow-phala](https://github.com/npow/metaflow-phala)** — Run Metaflow steps inside Phala Cloud TEE CVMs with one decorator.
 - 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
 
