@@ -11,13 +11,20 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ![Tokens Burned](https://img.shields.io/badge/tokens%20burned-∞-cc785c?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Metaflow Ecosystem
+
+### Orchestrators
 - 🔷 **[metaflow-dagster](https://github.com/npow/metaflow-dagster)** — Dagster scheduling, observability, and UI for your Metaflow pipelines.
 - 🚀 **[metaflow-flyte](https://github.com/npow/metaflow-flyte)** — Schedule and monitor your Metaflow pipelines through Flyte without rewriting them.
+- 🌊 **[metaflow-kestra](https://github.com/npow/metaflow-kestra)** — Kestra scheduling, triggers, and UI for your Metaflow pipelines.
+- 🔀 **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
+- ⏱️ **[metaflow-temporal](https://github.com/npow/metaflow-temporal)** — Temporal scheduling, durable workflows, and UI for your Metaflow pipelines.
+
+### Backends
+- 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
+
+### Developer Tools
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
-- 🔀 **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
-- 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
-- ⏱️ **[metaflow-temporal](https://github.com/npow/metaflow-temporal)** — Temporal scheduling, durable workflows, and UI for your Metaflow pipelines.
 
 ## AI/LLM Tools
 
