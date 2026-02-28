@@ -39,6 +39,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 - ⚙️ **[aegis](https://github.com/npow/aegis)** — Durable LLM agent runtime — crash recovery, budget limits, and permission enforcement built in.
 - 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
+- 📊 **[claude-retro](https://github.com/npow/claude-retro)** — Persistent dashboard that scores every Claude Code session and auto-applies CLAUDE.md fixes.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
 - 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark LLM context compressors, RAG rerankers, and memory managers.
 - 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
