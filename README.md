@@ -18,7 +18,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
 - 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark LLM context compressors, RAG rerankers, and memory managers.
 - 🔍 **[deeprecon](https://github.com/npow/deeprecon)** — Map markets, score white-space, and generate DD reports before you build.
-- 🔎 **[evidencekit](https://github.com/npow/evidencekit)** — Multi-provider web search for AI apps — parallel fanout across 12+ providers with policy routing, dedup, and rerank.
+- 🔎 **[evidencekit](https://github.com/npow/evidencekit)** — Multi-provider web search — parallel fanout across 12+ providers with policy routing, dedup, and rerank.
 - 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
 - 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
 - 💬 **[morphly](https://github.com/npow/morphly)** — Write once, land differently for everyone — adapts messages to each recipient's communication style.
@@ -31,6 +31,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## Metaflow Ecosystem
 
 ### Developer Tools
+- 📊 **[metaflow-card-dataprofile](https://github.com/npow/metaflow-card-dataprofile)** — Instant EDA reports on every DataFrame in your Metaflow steps — zero code changes.
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 - 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
