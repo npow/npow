@@ -31,7 +31,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## Metaflow Ecosystem
 
 ### Developer Tools
-- 📊 **[metaflow-card-dataprofile](https://github.com/npow/metaflow-card-dataprofile)** — Instant EDA reports on every DataFrame in your Metaflow steps — zero code changes.
+- 📊 **[metaflow-dataprofiler](https://github.com/npow/metaflow-dataprofiler)** — Instant EDA reports on every DataFrame in your Metaflow steps — zero code changes.
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 - 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
