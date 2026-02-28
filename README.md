@@ -29,7 +29,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🪶 **[metaflow-serverless](https://github.com/npow/metaflow-serverless)** — Run Metaflow without standing up any cloud infrastructure.
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
-- 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Interactive flamegraph card in the Metaflow UI with one decorator — CPU, memory allocations, and I/O timelines.
+- 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
 
 ### Resources
 - ⭐ **[awesome-metaflow](https://github.com/npow/awesome-metaflow)** — Every Metaflow extension worth knowing, curated and organized.
