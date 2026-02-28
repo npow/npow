@@ -17,7 +17,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 📊 **[claude-retro](https://github.com/npow/claude-retro)** — Persistent dashboard that scores every Claude Code session and auto-applies CLAUDE.md fixes.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
 - 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark LLM context compressors, RAG rerankers, and memory managers.
-- 🔍 **[deeprecon](https://github.com/npow/deeprecon)** — Competitive intelligence and market mapping — scan any vertical, score white-space, and generate DD reports before you build.
+- 🔍 **[deeprecon](https://github.com/npow/deeprecon)** — Map markets, score white-space, and generate DD reports before you build.
 - 🔎 **[evidencekit](https://github.com/npow/evidencekit)** — Multi-provider web search for AI apps — parallel fanout across 12+ providers with policy routing, dedup, and rerank.
 - 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
 - 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
