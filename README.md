@@ -26,23 +26,23 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
 
 ### Developer Tools
-- 🪶 **[metaflow-serverless](https://github.com/npow/metaflow-serverless)** — Serverless Metaflow metadata service on free-tier Postgres — no always-on servers, no infra to manage.
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 - 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
+- 🪶 **[metaflow-serverless](https://github.com/npow/metaflow-serverless)** — Serverless Metaflow metadata service on free-tier Postgres — no always-on servers, no infra to manage.
 
 ### Resources
 - ⭐ **[awesome-metaflow](https://github.com/npow/awesome-metaflow)** — Every Metaflow extension worth knowing, curated and organized.
 
 ## AI/LLM Tools
 
-- 🔭 **[sessionlog](https://github.com/npow/sessionlog)** — Real-time ingestion and storage for AI coding agent sessions.
 - 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
 - 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark LLM context compressors, RAG rerankers, and memory managers.
 - 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
 - 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
+- 🔭 **[sessionlog](https://github.com/npow/sessionlog)** — Real-time ingestion and storage for AI coding agent sessions.
 - 📊 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
 - 🪄 **[summon](https://github.com/npow/summon)** — Summon a working project from a single sentence.
 - 📰 **[upshot](https://github.com/npow/upshot)** — One daily brief that deduplicates and prioritizes all your newsletter and RSS inputs.
