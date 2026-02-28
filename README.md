@@ -10,31 +10,6 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 ![Tokens Burned](https://img.shields.io/badge/tokens%20burned-∞-cc785c?style=flat-square&logo=anthropic&logoColor=white)
 
-## Metaflow Ecosystem
-
-### Orchestrators
-- 🔷 **[metaflow-dagster](https://github.com/npow/metaflow-dagster)** — Dagster scheduling, observability, and UI for your Metaflow pipelines.
-- 🚀 **[metaflow-flyte](https://github.com/npow/metaflow-flyte)** — Schedule and monitor your Metaflow pipelines through Flyte without rewriting them.
-- 🌊 **[metaflow-kestra](https://github.com/npow/metaflow-kestra)** — Kestra scheduling, triggers, and UI for your Metaflow pipelines.
-- 🔀 **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
-- ⏱️ **[metaflow-temporal](https://github.com/npow/metaflow-temporal)** — Temporal scheduling, durable workflows, and UI for your Metaflow pipelines.
-
-### Backends
-- 🌐 **[metaflow-akash](https://github.com/npow/metaflow-akash)** — Run Metaflow steps on Akash's decentralized cloud without vendor lock-in.
-- 🐟 **[metaflow-bacalhau](https://github.com/npow/metaflow-bacalhau)** — Run Metaflow steps on distributed Bacalhau compute without rewriting your workflow.
-- 🔒 **[metaflow-phala](https://github.com/npow/metaflow-phala)** — Run Metaflow steps inside Phala Cloud TEE CVMs with one decorator.
-- 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
-
-### Developer Tools
-- 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
-- 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
-- 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
-- 🪶 **[metaflow-serverless](https://github.com/npow/metaflow-serverless)** — Serverless Metaflow metadata service — free-tier Postgres, zero setup.
-- 📈 **[metaflow-traincard](https://github.com/npow/metaflow-traincard)** — Live loss curves, GPU telemetry, and checkpoints in your Metaflow run card.
-
-### Resources
-- ⭐ **[awesome-metaflow](https://github.com/npow/awesome-metaflow)** — Every Metaflow extension worth knowing, curated and organized.
-
 ## AI/LLM Tools
 
 - ⚙️ **[aegis](https://github.com/npow/aegis)** — Durable LLM agent runtime — crash recovery, budget limits, and permission enforcement built in.
@@ -49,6 +24,31 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 📊 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
 - 🪄 **[summon](https://github.com/npow/summon)** — Summon a working project from a single sentence.
 - 📰 **[upshot](https://github.com/npow/upshot)** — One daily brief that deduplicates and prioritizes all your newsletter and RSS inputs.
+
+## Metaflow Ecosystem
+
+### Developer Tools
+- 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
+- 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
+- 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
+- 🪶 **[metaflow-serverless](https://github.com/npow/metaflow-serverless)** — Serverless Metaflow metadata service — free-tier Postgres, zero setup.
+- 📈 **[metaflow-traincard](https://github.com/npow/metaflow-traincard)** — Live loss curves, GPU telemetry, and checkpoints in your Metaflow run card.
+
+### Backends
+- 🌐 **[metaflow-akash](https://github.com/npow/metaflow-akash)** — Run Metaflow steps on Akash's decentralized cloud without vendor lock-in.
+- 🐟 **[metaflow-bacalhau](https://github.com/npow/metaflow-bacalhau)** — Run Metaflow steps on distributed Bacalhau compute without rewriting your workflow.
+- 🔒 **[metaflow-phala](https://github.com/npow/metaflow-phala)** — Run Metaflow steps inside Phala Cloud TEE CVMs with one decorator.
+- 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
+
+### Orchestrators
+- 🔷 **[metaflow-dagster](https://github.com/npow/metaflow-dagster)** — Dagster scheduling, observability, and UI for your Metaflow pipelines.
+- 🚀 **[metaflow-flyte](https://github.com/npow/metaflow-flyte)** — Schedule and monitor your Metaflow pipelines through Flyte without rewriting them.
+- 🌊 **[metaflow-kestra](https://github.com/npow/metaflow-kestra)** — Kestra scheduling, triggers, and UI for your Metaflow pipelines.
+- 🔀 **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
+- ⏱️ **[metaflow-temporal](https://github.com/npow/metaflow-temporal)** — Temporal scheduling, durable workflows, and UI for your Metaflow pipelines.
+
+### Resources
+- ⭐ **[awesome-metaflow](https://github.com/npow/awesome-metaflow)** — Every Metaflow extension worth knowing, curated and organized.
 
 ## Security
 
