@@ -42,6 +42,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ### Backends
 - 🌐 **[metaflow-akash](https://github.com/npow/metaflow-akash)** — Run Metaflow steps on Akash's decentralized cloud without vendor lock-in.
 - 🐟 **[metaflow-bacalhau](https://github.com/npow/metaflow-bacalhau)** — Run Metaflow steps on distributed Bacalhau compute without rewriting your workflow.
+- ⚡ **[metaflow-modal](https://github.com/npow/metaflow-modal)** — Run Metaflow steps on serverless GPUs — no infrastructure to manage.
 - 🔒 **[metaflow-phala](https://github.com/npow/metaflow-phala)** — Run Metaflow steps inside Phala Cloud TEE CVMs with one decorator.
 - 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
 
