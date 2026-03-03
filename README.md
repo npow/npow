@@ -67,6 +67,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🕵️ **[doxxer](https://github.com/npow/doxxer)** — Reproduce LLM-scale pseudonymous user re-identification across platforms 🔒
 - 🔗 **[ibc-explorer](https://github.com/npow/ibc-explorer)** — Trace multi-hop IBC transfers, decode denom hashes, and catch stuck packets 🔒
 - 🦞 **[moltbook-analysis](https://github.com/npow/moltbook-analysis)** — Forensic teardown of an AI-only social network. ([Read the report](https://npow.github.io/posts/lobster-tank/))
+- 🟠 **[ordisat](https://github.com/npow/ordisat)** — Query Bitcoin addresses, Runes tokens, and Ordinals inscriptions in one API call 🔒
 - ✈️ **[skypulse](https://github.com/npow/skypulse)** — Zero-setup browser globe tracking 6,000+ live aircraft in real time.
 - 🚢 **[spyglass](https://github.com/npow/spyglass)** — Real-time global ship traffic map with live AIS and instant drill-down.
 
