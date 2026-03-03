@@ -13,6 +13,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## AI/LLM Tools
 
 - ⚙️ **[aegis](https://github.com/npow/aegis)** — Durable LLM agent runtime — crash recovery, budget limits, and permission enforcement built in.
+- 🔀 **[agent-subsystems](https://github.com/npow/agent-subsystems)** — Route multi-agent tasks to the right AI model — automatically
 - 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
 - 📊 **[claude-retro](https://github.com/npow/claude-retro)** — Persistent dashboard that scores every Claude Code session and auto-applies CLAUDE.md fixes.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
