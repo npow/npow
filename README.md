@@ -24,15 +24,14 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 💬 **[morphly](https://github.com/npow/morphly)** — Write once, land differently for everyone — adapts messages to each recipient's communication style.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
 - 🔭 **[sessionlog](https://github.com/npow/sessionlog)** — Real-time ingestion and storage for AI coding agent sessions.
-- 📊 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
+- 💳 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
 - 🪄 **[summon](https://github.com/npow/summon)** — Summon a working project from a single sentence.
 - 📰 **[upshot](https://github.com/npow/upshot)** — One daily brief that deduplicates and prioritizes all your newsletter and RSS inputs.
 
 ## Metaflow Ecosystem
 
 ### Developer Tools
-- 🧪 **[corral](https://github.com/npow/corral)** — Test AWS Batch workloads locally without an AWS account.
-- 📊 **[metaflow-dataprofiler](https://github.com/npow/metaflow-dataprofiler)** — Instant EDA reports on every DataFrame in your Metaflow steps — zero code changes.
+- 🔬 **[metaflow-dataprofiler](https://github.com/npow/metaflow-dataprofiler)** — Instant EDA reports on every DataFrame in your Metaflow steps — zero code changes.
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
 - 🎛️ **[metaflow-optuna](https://github.com/npow/metaflow-optuna)** — Parallel hyperparameter tuning with true adaptive TPE — no sequential bottleneck.
@@ -72,10 +71,11 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 ## Libraries & Tools
 
-- ✈️ **[airline-codes](https://github.com/npow/airline-codes)** — Lightweight npm dataset for airline IATA/ICAO lookups.
+- 🏷️ **[airline-codes](https://github.com/npow/airline-codes)** — Lightweight npm dataset for airline IATA/ICAO lookups.
+- 🐄 **[corral](https://github.com/npow/corral)** — Test AWS Batch workloads locally without an AWS account.
 - 📦 **[cssbox](https://github.com/npow/cssbox)** — Fast embeddable Rust CSS layout engine for document rendering without a browser.
 - 🚔 **[oxicop](https://github.com/npow/oxicop)** — 2-30x faster RuboCop-compatible linter in Rust with parallel checks.
-- 📦 **[sandrun](https://github.com/npow/sandrun)** — Run code in fast, isolated cloud sandboxes — swap backends without rewriting your integration.
+- 🏜️ **[sandrun](https://github.com/npow/sandrun)** — Run code in fast, isolated cloud sandboxes — swap backends without rewriting your integration.
 
 ## Board Games
 
@@ -91,10 +91,10 @@ Digital adaptations of classic board games — vanilla HTML/CSS/JS, no dependenc
 ## ML Research
 
 - 🏠 **[centris](https://github.com/npow/centris)** — Montreal home-price prediction pipeline.
-- 💬 **[friends-chatbot](https://github.com/npow/friends-chatbot)** — Chatbot built on the Friends TV corpus.
+- 📺 **[friends-chatbot](https://github.com/npow/friends-chatbot)** — Chatbot built on the Friends TV corpus.
 - 🧠 **[MemN2N](https://github.com/npow/MemN2N)** — End-to-end Memory Networks in Theano.
-- 🧠 **[MemNN](https://github.com/npow/MemNN)** — Memory Networks in Theano.
-- 🧠 **[RNN-EM](https://github.com/npow/RNN-EM)** — RNNs with external memory.
+- 💡 **[MemNN](https://github.com/npow/MemNN)** — Memory Networks in Theano.
+- 🔁 **[RNN-EM](https://github.com/npow/RNN-EM)** — RNNs with external memory.
 - 🗣️ **[ubottu](https://github.com/npow/ubottu)** — Next-utterance classification.
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/npow)
