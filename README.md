@@ -25,6 +25,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 💬 **[morphly](https://github.com/npow/morphly)** — Write once, land differently for everyone — adapts messages to each recipient's communication style.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
 - 🔭 **[sessionlog](https://github.com/npow/sessionlog)** — Real-time ingestion and storage for AI coding agent sessions.
+- 🔁 **[session-sync](https://github.com/npow/session-sync)** — Switch from Claude Code to Codex or any AI coding agent without losing your session
 - 💳 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
 - 🪄 **[summon](https://github.com/npow/summon)** — Summon a working project from a single sentence.
 - 📰 **[upshot](https://github.com/npow/upshot)** — One daily brief that deduplicates and prioritizes all your newsletter and RSS inputs.
