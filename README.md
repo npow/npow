@@ -13,15 +13,15 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## AI/LLM Tools
 
 - ⚙️ **[aegis](https://github.com/npow/aegis)** — Durable LLM agent runtime — crash recovery, budget limits, and permission enforcement built in.
-- 🔀 **[interchange](https://github.com/npow/interchange)** — Route multi-agent tasks to the right AI model — automatically
-- 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
 - 📊 **[agent-insights](https://github.com/npow/agent-insights)** — Persistent dashboard that scores every AI coding session and auto-applies project instruction-file fixes.
+- 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
 - 🧪 **[context-bench](https://github.com/npow/context-bench)** — Benchmark LLM context compressors, RAG rerankers, and memory managers.
-- 🔍 **[deeprecon](https://github.com/npow/deeprecon)** — Map markets, score white-space, and generate DD reports before you build.
+- 🗺️ **[deeprecon](https://github.com/npow/deeprecon)** — Map markets, score white-space, and generate DD reports before you build.
 - 🧭 **[elicit](https://github.com/npow/elicit)** — Know what to build next from your customer interviews.
 - 🔎 **[evidencekit](https://github.com/npow/evidencekit)** — Multi-provider web search — parallel fanout across 12+ providers with policy routing, dedup, and rerank.
 - 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
+- 🔀 **[interchange](https://github.com/npow/interchange)** — Route multi-agent tasks to the right AI model — automatically
 - 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
 - 💬 **[morphly](https://github.com/npow/morphly)** — Write once, land differently for everyone — adapts messages to each recipient's communication style.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
@@ -46,7 +46,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ### Backends
 - 🌐 **[metaflow-akash](https://github.com/npow/metaflow-akash)** — Run Metaflow steps on Akash's decentralized cloud without vendor lock-in.
 - 🐟 **[metaflow-bacalhau](https://github.com/npow/metaflow-bacalhau)** — Run Metaflow steps on distributed Bacalhau compute without rewriting your workflow.
-- ⚙️ **[metaflow-gha](https://github.com/npow/metaflow-gha)** — Run Metaflow steps on free GitHub Actions VMs — no cloud account needed
+- 🏗️ **[metaflow-gha](https://github.com/npow/metaflow-gha)** — Run Metaflow steps on free GitHub Actions VMs — no cloud account needed
 - ⚡ **[metaflow-modal](https://github.com/npow/metaflow-modal)** — Run Metaflow steps on serverless GPUs — no infrastructure to manage.
 - 🔒 **[metaflow-phala](https://github.com/npow/metaflow-phala)** — Run Metaflow steps inside Phala Cloud TEE CVMs with one decorator.
 - 🏖️ **[metaflow-sandbox](https://github.com/npow/metaflow-sandbox)** — Metaflow steps in millisecond-start sandboxes with cloud-scale fanout and consistent deps.
@@ -71,8 +71,8 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 - 🕵️ **[doxxer](https://github.com/npow/doxxer)** — Reproduce LLM-scale pseudonymous user re-identification across platforms 🔒
 - 🔗 **[ibc-explorer](https://github.com/npow/ibc-explorer)** — Trace multi-hop IBC transfers, decode denom hashes, and catch stuck packets 🔒
-- 📦 **[nebraska-analysis](https://github.com/npow/nebraska-analysis)** — Find the packages your entire supply chain depends on without knowing it
 - 🦞 **[moltbook-analysis](https://github.com/npow/moltbook-analysis)** — Forensic teardown of an AI-only social network. ([Read the report](https://npow.github.io/posts/lobster-tank/))
+- 📦 **[nebraska-analysis](https://github.com/npow/nebraska-analysis)** — Find the packages your entire supply chain depends on without knowing it
 - 🟠 **[ordisat](https://github.com/npow/ordisat)** — Query Bitcoin addresses, Runes tokens, and Ordinals inscriptions in one API call 🔒
 - 📉 **[perpscan](https://github.com/npow/perpscan)** — Cross-chain perpetual DEX analytics — unified positions, liquidations, and funding rates 🔒
 - ✈️ **[skypulse](https://github.com/npow/skypulse)** — Zero-setup browser globe tracking 6,000+ live aircraft in real time.
