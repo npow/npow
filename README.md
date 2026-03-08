@@ -19,7 +19,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🗺️ **[deeprecon](https://github.com/npow/deeprecon)** — Map markets, score white-space, and generate DD reports before you build.
 - 🧭 **[elicit](https://github.com/npow/elicit)** — Know what to build next from your customer interviews.
 - 🔎 **[evidencekit](https://github.com/npow/evidencekit)** — Multi-provider web search — parallel fanout across 12+ providers with policy routing, dedup, and rerank.
-- 🔍 **[gh-roast](https://github.com/npow/gh-roast)** — Detect PR farming and rank OSS contributors for program admissions in minutes.
+- 🔍 **[github-roast](https://github.com/npow/github-roast)** — Detect PR farming and rank OSS contributors for program admissions in minutes.
 - 👻 **[ghostwriter](https://github.com/npow/ghostwriter)** — Autonomous AI content engine with anti-slop quality gates.
 - 🔀 **[interchange](https://github.com/npow/interchange)** — Route multi-agent tasks to the right AI model — automatically
 - 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
