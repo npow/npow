@@ -81,8 +81,8 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## Libraries & Tools
 
 - 🏷️ **[airline-codes](https://github.com/npow/airline-codes)** — Lightweight npm dataset for airline IATA/ICAO lookups.
-- 🐄 **[corral](https://github.com/npow/corral)** — Test AWS Batch workloads locally without an AWS account.
 - 🧱 **[cssbox](https://github.com/npow/cssbox)** — Fast embeddable Rust CSS layout engine for document rendering without a browser.
+- 💻 **[localbatch](https://github.com/npow/localbatch)** — Test AWS Batch workloads locally without an AWS account.
 - 🚔 **[oxicop](https://github.com/npow/oxicop)** — 2-30x faster RuboCop-compatible linter in Rust with parallel checks.
 - 🏜️ **[sandrun](https://github.com/npow/sandrun)** — Run code in fast, isolated cloud sandboxes — swap backends without rewriting your integration.
 
