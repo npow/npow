@@ -12,7 +12,6 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
 ## AI/LLM Tools
 
-- ⚙️ **[rampart](https://github.com/npow/rampart)** — Durable LLM agent runtime — crash recovery, budget limits, and permission enforcement built in.
 - 📊 **[agent-insights](https://github.com/npow/agent-insights)** — Persistent dashboard that scores every AI coding session and auto-applies project instruction-file fixes.
 - 🔄 **[claude-relay](https://github.com/npow/claude-relay)** — Drop-in OpenAI and Anthropic API server that routes through Claude Code.
 - 🧩 **[claude-skills](https://github.com/npow/claude-skills)** — Reusable slash-command workflows that make Claude Code reliable on complex tasks.
@@ -25,6 +24,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🗜️ **[kompact](https://github.com/npow/kompact)** — LLM context compression proxy — 40–70% token savings, zero code changes.
 - 💬 **[morphly](https://github.com/npow/morphly)** — Write once, land differently for everyone — adapts messages to each recipient's communication style.
 - 🎨 **[oh-my-claude](https://github.com/npow/oh-my-claude)** — Real-time context, spend, CI, and runtime status inside Claude Code.
+- ⚙️ **[rampart](https://github.com/npow/rampart)** — Durable LLM agent runtime — crash recovery, budget limits, and permission enforcement built in.
 - 🔭 **[sessionlog](https://github.com/npow/sessionlog)** — Real-time ingestion and storage for AI coding agent sessions.
 - 🔁 **[session-sync](https://github.com/npow/session-sync)** — Switch from Claude Code to Codex or any AI coding agent without losing your session
 - 💳 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
@@ -109,4 +109,5 @@ Digital adaptations of classic board games — vanilla HTML/CSS/JS, no dependenc
 ![GitHub Contribution Graph](https://ghchart.rshah.org/npow)
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/npow)
+
 
