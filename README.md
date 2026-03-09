@@ -57,8 +57,10 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🔷 **[metaflow-dagster](https://github.com/npow/metaflow-dagster)** — Dagster scheduling, observability, and UI for your Metaflow pipelines.
 - 🚀 **[metaflow-flyte](https://github.com/npow/metaflow-flyte)** — Schedule and monitor your Metaflow pipelines through Flyte without rewriting them.
 - 🌊 **[metaflow-kestra](https://github.com/npow/metaflow-kestra)** — Kestra scheduling, triggers, and UI for your Metaflow pipelines.
+- 🧙 **[metaflow-mage](https://github.com/npow/metaflow-mage)** — Mage pipeline orchestration and UI for your Metaflow flows.
 - 🛰️ **[metaflow-prefect](https://github.com/npow/metaflow-prefect)** — Prefect scheduling, deployments, and UI for your Metaflow pipelines.
 - ⏱️ **[metaflow-temporal](https://github.com/npow/metaflow-temporal)** — Temporal scheduling, durable workflows, and UI for your Metaflow pipelines.
+- 🌪️ **[metaflow-windmill](https://github.com/npow/metaflow-windmill)** — Windmill workflow automation and UI for your Metaflow pipelines.
 
 ### Resources
 - ⭐ **[awesome-metaflow](https://github.com/npow/awesome-metaflow)** — Every Metaflow extension worth knowing, curated and organized.
