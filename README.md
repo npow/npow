@@ -43,6 +43,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🧰 **[metaflow-orchestrator-kit](https://github.com/npow/metaflow-orchestrator-kit)** — Build correct Metaflow orchestrators with a compliance test suite and scaffold
 - 🎛️ **[metaflow-optuna](https://github.com/npow/metaflow-optuna)** — Parallel hyperparameter tuning with true adaptive TPE — no sequential bottleneck.
 - 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
+- 🚀 **[metaflow-serve](https://github.com/npow/metaflow-serve)** — Deploy ML models from Metaflow flows with full lineage tracking.
 - 🪶 **[metaflow-serverless](https://github.com/npow/metaflow-serverless)** — Serverless Metaflow metadata service — free-tier Postgres, zero setup.
 - 📈 **[metaflow-traincard](https://github.com/npow/metaflow-traincard)** — Live loss curves, GPU telemetry, and checkpoints in your Metaflow run card.
 
