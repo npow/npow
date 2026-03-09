@@ -35,6 +35,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## Metaflow Ecosystem
 
 ### Developer Tools
+- 📜 **[metaflow-contracts](https://github.com/npow/metaflow-contracts)** — Catch bad data between Metaflow steps before it corrupts your pipeline.
 - 🔬 **[metaflow-dataprofiler](https://github.com/npow/metaflow-dataprofiler)** — Instant EDA reports on every DataFrame in your Metaflow steps — zero code changes.
 - ✋ **[metaflow-hitl](https://github.com/npow/metaflow-hitl)** — Pause Metaflow pipelines for human review with zero compute cost
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
