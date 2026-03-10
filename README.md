@@ -107,7 +107,6 @@ Digital adaptations of classic board games — vanilla HTML/CSS/JS, no dependenc
 - 📺 **[friends-chatbot](https://github.com/npow/friends-chatbot)** — Chatbot built on the Friends TV corpus.
 - 🧠 **[MemN2N](https://github.com/npow/MemN2N)** — End-to-end Memory Networks in Theano.
 - 💡 **[MemNN](https://github.com/npow/MemNN)** — Memory Networks in Theano.
-- 🔐 **[zkml-bench](https://github.com/npow/zkml-bench)** — Find neural networks that are accurate and cheap to prove in zero-knowledge.
 - 🧬 **[RNN-EM](https://github.com/npow/RNN-EM)** — RNNs with external memory.
 - 🗣️ **[ubottu](https://github.com/npow/ubottu)** — Next-utterance classification.
 
