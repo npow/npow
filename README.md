@@ -38,6 +38,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - ✋ **[metaflow-hitl](https://github.com/npow/metaflow-hitl)** — Pause Metaflow pipelines for human review with zero compute cost
 - 🗄️ **[metaflow-local-service](https://github.com/npow/metaflow-local-service)** — Track Metaflow runs anywhere without a database — starts on demand, stops when idle.
 - 🔧 **[metaflow-mcp-server](https://github.com/npow/metaflow-mcp-server)** — Ask your agent to inspect runs, logs, and artifacts instead of writing debug scripts.
+- 🔔 **[metaflow-notifications](https://github.com/npow/metaflow-notifications)** — Step failure alerts for Metaflow pipelines.
 - 🧰 **[metaflow-orchestrator-kit](https://github.com/npow/metaflow-orchestrator-kit)** — Build correct Metaflow orchestrators with a compliance test suite and scaffold
 - 🎛️ **[metaflow-optuna](https://github.com/npow/metaflow-optuna)** — Parallel hyperparameter tuning with true adaptive TPE — no sequential bottleneck.
 - 🔥 **[metaflow-profiler](https://github.com/npow/metaflow-profiler)** — Flamegraph profiling card for Metaflow steps.
