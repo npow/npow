@@ -13,6 +13,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## Metaflow Ecosystem
 
 ### Developer Tools
+- 🔩 **[metaflow-backend-kit](https://github.com/npow/metaflow-backend-kit)** — Scaffold, validate, and compliance-test Metaflow compute backends
 - 📜 **[metaflow-contracts](https://github.com/npow/metaflow-contracts)** — Catch bad data between Metaflow steps before it corrupts your pipeline.
 - 🔬 **[metaflow-dataprofiler](https://github.com/npow/metaflow-dataprofiler)** — Instant EDA reports on every DataFrame in your Metaflow steps — zero code changes.
 - ✋ **[metaflow-hitl](https://github.com/npow/metaflow-hitl)** — Pause Metaflow pipelines for human review with zero compute cost
