@@ -65,6 +65,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🔁 **[session-sync](https://github.com/npow/session-sync)** — Switch from Claude Code to Codex or any AI coding agent without losing your session
 - 💳 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
 - 🪄 **[summon](https://github.com/npow/summon)** — Summon a working project from a single sentence.
+- 🐝 **[swarmd](https://github.com/npow/swarmd)** — Mission-enforced Claude runtime — refuses to stop until your success criteria pass, durable across crashes.
 - 📰 **[upshot](https://github.com/npow/upshot)** — One daily brief that deduplicates and prioritizes all your newsletter and RSS inputs.
 
 ## Security
