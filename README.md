@@ -64,6 +64,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🧵 **[sagaflow](https://github.com/npow/sagaflow)** — Run durable agent workflows that outlive your session.
 - 🔭 **[sessionlog](https://github.com/npow/sessionlog)** — Real-time ingestion and storage for AI coding agent sessions.
 - 🔁 **[session-sync](https://github.com/npow/session-sync)** — Switch from Claude Code to Codex or any AI coding agent without losing your session
+- 📏 **[skill-bench](https://github.com/npow/skill-bench)** — Compare Claude Code skills head-to-head with honest statistics and declared ties
 - 💳 **[stripe-analytics-mcp](https://github.com/npow/stripe-analytics-mcp)** — 30-second Stripe morning check: MRR, churn, failed payments, and expiring trials.
 - 🪄 **[summon](https://github.com/npow/summon)** — Summon a working project from a single sentence.
 - 🐝 **[swarmd](https://github.com/npow/swarmd)** — Mission-enforced Claude runtime — refuses to stop until your success criteria pass, durable across crashes.
