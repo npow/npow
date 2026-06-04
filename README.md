@@ -83,6 +83,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 📦 **[nebraska-analysis](https://github.com/npow/nebraska-analysis)** — Find the packages your entire supply chain depends on without knowing it
 - 🟠 **[ordisat](https://github.com/npow/ordisat)** — Query Bitcoin addresses, Runes tokens, and Ordinals inscriptions in one API call
 - 📉 **[perpscan](https://github.com/npow/perpscan)** — Cross-chain perpetual DEX analytics — unified positions, liquidations, and funding rates
+- 🔮 **[predictle](https://github.com/npow/predictle)** — Endless Wordle-style game: rank live Manifold prediction markets by probability.
 - ✈️ **[skypulse](https://github.com/npow/skypulse)** — Zero-setup browser globe tracking 6,000+ live aircraft in real time.
 - 🚢 **[spyglass](https://github.com/npow/spyglass)** — Real-time global ship traffic map with live AIS and instant drill-down.
 
