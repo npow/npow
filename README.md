@@ -4,7 +4,7 @@
 
 Toronto → Waterloo → Montreal → New York → Seattle → San Francisco
 
-Building at the intersection of **spatial computing & hardware acceleration**, **robotics & embodied AI**, and **high-performance systems**.
+Makes things. Some of them even useful.
 
 Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
