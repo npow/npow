@@ -31,9 +31,10 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🛡️ **[memshield](https://github.com/npow/memshield)** — Stop memory poisoning and state corruption attacks on persistent AI agent memory.
 - 🤠 **[outclaw](https://github.com/npow/outclaw)** — Inline content firewall for OpenClaw: secrets, prompt injection, unsafe domains, and tool risks.
 
-## 🛰️ Telemetry & Forensics
+## 🌐 Telemetry, Simulation & Forensics
 
 - 🎭 **[botc-ai](https://github.com/npow/botc-ai)** — Blood on the Clocktower AI spectator: browser simulation with LLM players, lock-based discussion, and real-time voting.
+- 🤖 **[g1-expedition](https://github.com/npow/g1-expedition)** — Unitree G1 alpine autonomy: MuJoCo recovery skills, Isaac Lab cooperative MAPPO transport, and LiveKit telemetry.
 - 🦞 **[moltbook-analysis](https://github.com/npow/moltbook-analysis)** — Forensic network teardown of Moltbook, an AI-only social network of 41k+ agents. ([Read the report](https://npow.github.io/posts/lobster-tank/))
 - ✈️ **[skypulse](https://github.com/npow/skypulse)** — Zero-setup 3D browser globe tracking 6,000+ commercial aircraft in real time.
 - 🚢 **[spyglass](https://github.com/npow/spyglass)** — Real-time global maritime traffic map with live AIS tracking and vessel emissions estimation.
@@ -113,8 +114,10 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 - 🧱 **[cssbox](https://github.com/npow/cssbox)** — Fast embeddable Rust CSS layout engine for document rendering without a browser.
 - 🖼️ **[giphy-mcp-server](https://github.com/npow/giphy-mcp-server)** — Search, trending, and random GIFs as MCP tools for AI coding agents.
 - 🔗 **[ibc-explorer](https://github.com/npow/ibc-explorer)** — Trace multi-hop Cosmos IBC transfers, decode denom hashes, and catch stuck packets.
+- 🗜️ **[kompressor](https://github.com/npow/kompressor)** — ~56× faster, byte-exact Rust rANS entropy coder for CompressAI neural image compression.
 - 💻 **[localbatch](https://github.com/npow/localbatch)** — Test AWS Batch workloads locally without an AWS account.
 - 📦 **[nebraska-analysis](https://github.com/npow/nebraska-analysis)** — Find the hidden packages your entire software supply chain depends on.
+- ⚡ **[nv-toplike](https://github.com/npow/nv-toplike)** — Real-time NVIDIA GPU telemetry and performance monitor in the terminal.
 - 🟠 **[ordisat](https://github.com/npow/ordisat)** — Query Bitcoin addresses, Runes tokens, and Ordinals inscriptions in one unified API.
 - 🚔 **[oxicop](https://github.com/npow/oxicop)** — 2–30× faster RuboCop-compatible linter in Rust with native parallelism.
 - 📉 **[perpscan](https://github.com/npow/perpscan)** — Cross-chain perpetual DEX analytics — unified positions, liquidations, and funding rates.
