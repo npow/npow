@@ -34,7 +34,7 @@ Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 ## 🌐 Telemetry, Simulation & Forensics
 
 - 🎭 **[botc-ai](https://github.com/npow/botc-ai)** — Blood on the Clocktower AI spectator: browser simulation with LLM players, lock-based discussion, and real-time voting.
-- 🤖 **[g1-expedition](https://github.com/npow/g1-expedition)** — Unitree G1 alpine autonomy: MuJoCo recovery skills, Isaac Lab cooperative MAPPO transport, and LiveKit telemetry.
+- 🤖 **[g1-expedition](https://github.com/npow/g1-expedition)** — Unitree G1 alpine autonomy: MuJoCo recovery, cooperative Isaac Lab MAPPO, and LiveKit telemetry.
 - 🦞 **[moltbook-analysis](https://github.com/npow/moltbook-analysis)** — Forensic network teardown of Moltbook, an AI-only social network of 41k+ agents. ([Read the report](https://npow.github.io/posts/lobster-tank/))
 - ✈️ **[skypulse](https://github.com/npow/skypulse)** — Zero-setup 3D browser globe tracking 6,000+ commercial aircraft in real time.
 - 🚢 **[spyglass](https://github.com/npow/spyglass)** — Real-time global maritime traffic map with live AIS tracking and vessel emissions estimation.
