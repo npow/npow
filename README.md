@@ -8,6 +8,8 @@ Makes things. Some of them even useful.
 
 Core contributor to [Metaflow](https://github.com/Netflix/metaflow).
 
+🎓 [Google Scholar](https://scholar.google.com/citations?user=dSrmKgMAAAAJ&hl=en)
+
 ![Tokens Burned](https://img.shields.io/badge/tokens%20burned-∞-cc785c?style=flat-square&logo=anthropic&logoColor=white)
 
 ## ⚙️ Agent Infrastructure
